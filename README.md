@@ -32,7 +32,8 @@ deactivate
 
 ## 步驟 1：安裝 LSP 介面與 Basedpyright（會自動連帶安裝 JupyterLab）
 ```bash
-uv add --dev jupyterlab-lsp basedpyright
+uv add --dev jupyterlab-lsp basedpyright #第一次安裝
+uv add jupyterlab
 ```
 
 ## 步驟 2：啟動 JupyterLab
