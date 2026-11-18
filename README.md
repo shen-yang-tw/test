@@ -48,3 +48,6 @@ uv run jupyter lab
 ```bash
 uv run 路徑檔名
 ```
+
+# 6. python內建functions
+https://docs.python.org/zh-tw/3/builtins/functions.html
